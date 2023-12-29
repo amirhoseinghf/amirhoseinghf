@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Amirhosein Ghaffarian
-- 👀 I’m interested in Front-End developing right now.
-- 🌱 I’m currently learning Flutter, soon to be Django and Javascript ;)
-- 💞️ I’m looking to collaborate on Flutter projects.
 - 📫 How to reach me: Through my email: amirhoseinghf82@gmail.com
 
 <!---
